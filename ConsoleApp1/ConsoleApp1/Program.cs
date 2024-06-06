@@ -4,8 +4,7 @@ namespace ConsoleApplication1diary;
 
 internal class Program
 {
-    static string _pathToFile =
-        "../../../diary.json";
+
 
     static void Main()
     {
