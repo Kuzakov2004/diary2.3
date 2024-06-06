@@ -1,4 +1,4 @@
-﻿using JsonSerializer = System.Text.Json.JsonSerializer;
+﻿using System
 
 namespace ConsoleApplication1diary;
 
